@@ -14,6 +14,7 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
 #dbus-python==1.2.16
+dbus-python
 distro==1.4.0
 #distro-info===0.23ubuntu1
 docutils==0.17.1
