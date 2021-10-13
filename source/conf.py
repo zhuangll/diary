@@ -17,7 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test'
+#project = 'test'
+project = 'liuz'
 copyright = '2021, liu'
 author = 'liu'
 
