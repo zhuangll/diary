@@ -59,7 +59,7 @@ extensions = [
     'sphinx_markdown_tables'
 ]
 
-
+python3 -m pip freeze > requirements.txt
 ```
 
 参考链接：
