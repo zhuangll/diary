@@ -70,5 +70,7 @@ https://zhuanlan.zhihu.com/p/388640347
 
 ## git
 
+git push -u origin main
+
 https://zhuanlan.zhihu.com/p/252505037
 
