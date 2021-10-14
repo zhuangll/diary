@@ -12,6 +12,7 @@ Welcome to liuz's documentation!
 
    ReadDoc
    WSL
+   leetcode
    test2
 
 Indices and tables
