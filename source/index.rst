@@ -13,6 +13,7 @@ Welcome to liuz's documentation!
    ReadDoc
    WSL
    leetcode
+   编译
    test2
 
 Indices and tables
