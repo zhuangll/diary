@@ -74,3 +74,24 @@ git push -u origin main
 
 https://zhuanlan.zhihu.com/p/252505037
 
+## PowerShell
+
+winget search Microsoft.PowerShell
+
+- Windows Powershell和Windows Terminal的区别
+https://blog.csdn.net/The_Time_Runner/article/details/106038222
+https://docs.microsoft.com/zh-cn/windows/terminal/get-started
+
+
+## windows 包管理工具
+
+- winget 官方推出
+
+- choro
+
+- vcpkg
+https://vcpkg.io/en/getting-started.html
+https://blog.csdn.net/cjmqas/article/details/79282847
+
+
+ Scoop 
