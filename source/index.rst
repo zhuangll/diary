@@ -14,6 +14,7 @@ Welcome to liuz's documentation!
    WSL
    leetcode
    编译
+   Tool&Software
    test2
 
 Indices and tables
