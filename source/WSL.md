@@ -81,8 +81,7 @@ git push -u origin main
 
 winget search Microsoft.PowerShell
 
-- Windows Powershell和Windows Terminal的区别
-[Windows Powershell和Windows Terminal的区别](https://blog.csdn.net/The_Time_Runner/article/details/106038222)
+- [Windows Powershell和Windows Terminal的区别](https://blog.csdn.net/The_Time_Runner/article/details/106038222)
 <br>
 
 [安装和设置 Windows 终端](https://docs.microsoft.com/zh-cn/windows/terminal/get-started)
