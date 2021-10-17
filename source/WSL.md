@@ -12,8 +12,8 @@ wslconfig /l
 # 从列表中选择要卸载的发行版（例如Ubuntu）并键入命令
 wslconfig /u Ubuntu
 ```
-参考链接：
-https://blog.csdn.net/zhangpeterx/article/details/97616268
+参考链接：[WSL系列操作：安装，卸载](https://blog.csdn.net/zhangpeterx/article/details/97616268
+)
 
 
 ## 设置wsl
@@ -38,8 +38,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 ```
-参考链接：
-https://blog.csdn.net/qq_33706673/article/details/106869016
+参考链接：[ubuntu20.04更改国内镜像源](https://blog.csdn.net/qq_33706673/article/details/106869016)
 
 
 ## Read The Docs 环境搭建
