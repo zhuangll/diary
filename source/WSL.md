@@ -63,7 +63,11 @@ python3 -m pip freeze > requirements.txt
 
 参考链接：
 [VsCode +Read The Docs 环境搭建](https://zhuanlan.zhihu.com/p/112919704)
+<br>
+
 [Sphinx + Read the Docs 从懵逼到入门](https://zhuanlan.zhihu.com/p/264647009)
+<br>
+
 [ReadTheDocs搭建第一本电子书](https://zhuanlan.zhihu.com/p/388640347)
 
 
@@ -79,6 +83,8 @@ winget search Microsoft.PowerShell
 
 - Windows Powershell和Windows Terminal的区别
 [Windows Powershell和Windows Terminal的区别](https://blog.csdn.net/The_Time_Runner/article/details/106038222)
+<br>
+
 [安装和设置 Windows 终端](https://docs.microsoft.com/zh-cn/windows/terminal/get-started)
 
 
@@ -90,6 +96,8 @@ winget search Microsoft.PowerShell
 
 - vcpkg
 [Get started with vcpkg](https://vcpkg.io/en/getting-started.html)
+<br>
+
 [开源库集成器Vcpkg全教程](https://blog.csdn.net/cjmqas/article/details/79282847)
 
 
