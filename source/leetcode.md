@@ -22,11 +22,9 @@
 <br>
 
 参考链接：
-刷题笔记6（浅谈单调栈）
-https://zhuanlan.zhihu.com/p/26465701
+[刷题笔记6（浅谈单调栈）](https://zhuanlan.zhihu.com/p/26465701)
 
-单调栈的介绍以及一些基本性质
-https://blog.csdn.net/liujian20150808/article/details/50752861
+[单调栈的介绍以及一些基本性质]{https://blog.csdn.net/liujian20150808/article/details/50752861)
 
 
 

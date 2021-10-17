@@ -62,24 +62,24 @@ python3 -m pip freeze > requirements.txt
 ```
 
 参考链接：
-https://zhuanlan.zhihu.com/p/112919704
-https://zhuanlan.zhihu.com/p/264647009
-https://zhuanlan.zhihu.com/p/388640347
+[VsCode +Read The Docs 环境搭建](https://zhuanlan.zhihu.com/p/112919704)
+[Sphinx + Read the Docs 从懵逼到入门](https://zhuanlan.zhihu.com/p/264647009)
+[ReadTheDocs搭建第一本电子书](https://zhuanlan.zhihu.com/p/388640347)
 
 
 ## git
 
 git push -u origin main
 
-https://zhuanlan.zhihu.com/p/252505037
+[玩转WSL(6)之Git配置](https://zhuanlan.zhihu.com/p/252505037)
 
 ## PowerShell
 
 winget search Microsoft.PowerShell
 
 - Windows Powershell和Windows Terminal的区别
-https://blog.csdn.net/The_Time_Runner/article/details/106038222
-https://docs.microsoft.com/zh-cn/windows/terminal/get-started
+[Windows Powershell和Windows Terminal的区别](https://blog.csdn.net/The_Time_Runner/article/details/106038222)
+[安装和设置 Windows 终端](https://docs.microsoft.com/zh-cn/windows/terminal/get-started)
 
 
 ## windows 包管理工具
@@ -89,8 +89,8 @@ https://docs.microsoft.com/zh-cn/windows/terminal/get-started
 - choro
 
 - vcpkg
-https://vcpkg.io/en/getting-started.html
-https://blog.csdn.net/cjmqas/article/details/79282847
+[Get started with vcpkg](https://vcpkg.io/en/getting-started.html)
+[开源库集成器Vcpkg全教程](https://blog.csdn.net/cjmqas/article/details/79282847)
 
 
  Scoop 
