@@ -29,8 +29,14 @@
 
 
 
+<br>
 
+## 2、并查集
 
+[并查集详解](https://blog.csdn.net/hanzhen7541/article/details/105118687)
+<br>
+
+[csdn并查集](https://blog.csdn.net/qq_41593380/article/details/81146850)
 
 
 
