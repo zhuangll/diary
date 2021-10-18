@@ -28,6 +28,24 @@
 [单调栈的介绍以及一些基本性质]{https://blog.csdn.net/liujian20150808/article/details/50752861)
 
 
+84
+739
+503
+85
+42
+901
+962
+
+## leetcode 题目
+### 84、
+```c
+int main()
+{
+    int a = 5;
+    printf("%d", a);
+}
+
+```
 
 <br>
 
