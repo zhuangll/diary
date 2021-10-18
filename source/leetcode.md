@@ -38,7 +38,7 @@
 
 ## leetcode 题目
 ### 84、
-```c{.line-numbers}
+```c
 int main()
 {
     int a = 5;

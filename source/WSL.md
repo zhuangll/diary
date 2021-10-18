@@ -71,6 +71,8 @@ python3 -m pip freeze > requirements.txt
 [ReadTheDocs搭建第一本电子书](https://zhuanlan.zhihu.com/p/388640347)
 
 
+https://www.jianshu.com/p/8aae1c1453ae
+
 ## git
 
 git push -u origin main
