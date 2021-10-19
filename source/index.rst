@@ -14,6 +14,7 @@ Welcome to liuz's documentation!
    WSL
    编程技术
    编译
+   leetcode/begeekmyfriendleetcode
    Tool&Software
    test2
 
