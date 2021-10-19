@@ -6,8 +6,8 @@
 ## 001.two_sum
 
 ```c
-#include<sdtio.h>
-#include<sdtlib.h>
+#include<stdio.h>
+#include<stdlib.h>
 
 struct object {
     int val;
