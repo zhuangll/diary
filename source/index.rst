@@ -16,7 +16,7 @@ Welcome to liuz's documentation!
    编译
    leetcode/begeekmyfriendleetcode
    Tool&Software
-   test2
+   RST
 
 Indices and tables
 ==================
