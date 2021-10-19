@@ -12,7 +12,7 @@ Welcome to liuz's documentation!
 
    ReadDoc
    WSL
-   leetcode
+   编程技术
    编译
    Tool&Software
    test2
