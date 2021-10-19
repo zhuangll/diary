@@ -3,7 +3,7 @@
 参考GitHub: 
 [begeekmyfriendleetcode](https://github.com/begeekmyfriend/leetcode)
 
-## 001.two_sum
+## 0001.two_sum
 
 ```c
 #include<stdio.h>
@@ -68,4 +68,6 @@ int main(void)
 }
 
 ```
+## 0002.add_two_num
+
 
