@@ -8,3 +8,4 @@
 [截图工具 Snipaste](https://www.snipaste.com/)
 
 
+plink
