@@ -8,6 +8,9 @@
 给定一个整数数组nums和一个
 ```
 [两数之和](https://leetcode-cn.com/problems/two-sum/)
+<details>
+<summary>code</summary>
+
 ```c
 #include<stdio.h>
 #include<stdlib.h>
@@ -71,9 +74,14 @@ int main(void)
 }
 
 ```
+</details>
+
 ## 0002.add_two_num
 
 [2.两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+<details>
+<summary>code</summary>
+
 ```c
 struct ListNode {
     int val;
@@ -122,10 +130,14 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
 }
 
 ```
+</details>
 
 ## 0003.无重复字符的最长子串
 
 [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+<details>
+<summary>code</summary>
 
 ```c
 #include<stdio.h>
@@ -160,3 +172,4 @@ int lengthOfLongestSubstring(char *s)
 }
 
 ```
+</details>
